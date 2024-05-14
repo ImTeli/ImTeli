@@ -20,7 +20,7 @@ During my undergraduate studies, I got acquainted with the Python language, and 
 
 <span align="center">
   
-## Skills
+## Skills and Technologies
 ![My Skills](https://skillicons.dev/icons?i=git,vscode,python,php,mysql,arduino,js,html,css,godot)
 
 </span>
