@@ -31,4 +31,4 @@ During my undergraduate studies, I got acquainted with the Python language, and 
 
 ## Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ImTeli&repo=telibot_next&bg_color=101010&border_color=FFF&show_icons=true&icon_color=00FFFF&title_color=00FFFF&text_color=FFF)](https://github.com/ImTeli/telibot)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ImTeli&repo=telibot&bg_color=101010&border_color=FFF&show_icons=true&icon_color=00FFFF&title_color=00FFFF&text_color=FFF)](https://github.com/ImTeli/telibot)
