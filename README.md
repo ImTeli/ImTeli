@@ -5,23 +5,23 @@
 
 </span>
 
-I'm an electrical technician and an undergraduate student in electrical engineering I used to teach programming and robotics at UFSJ and Ctrl+Play School in Belo Horizonte.
+I'm an electrical technician and an undergraduate student in electrical engineering. I have experience teaching programming and robotics at UFSJ and Ctrl+Play School in Belo Horizonte.
 
-I started programming around 2012 when I needed to create a GTA SAMP server, using Pawn language. Later on, I had contact with programming in different areas, with more focus on robotics (C, C++).
+My programming journey began in 2012 when I created a GTA SAMP server using the Pawn language. Since then, I have explored various programming fields, with a particular focus on robotics (C, C++).
 
-During my undergraduate studies, I got acquainted with the Python language, and it's currently my main focus, having already completed some personal projects.
+During my undergraduate studies, I became proficient in Python, which is now my primary programming language. I have completed several personal projects using Python.
 
 <span align="center">
   
 ## Contact me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hiagot/) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/9RYKeTSf) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hiagobvt/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hiagot/) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/9RYKeTSf)
 
 </span>
 
 <span align="center">
   
 ## Skills and Technologies
-![My Skills](https://skillicons.dev/icons?i=git,vscode,python,php,mysql,arduino,js,html,css,godot)
+![My Skills](https://skillicons.dev/icons?i=git,vscode,python,php,mysql,arduino,js,html,css)
 
 </span>
 
