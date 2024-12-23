@@ -23,11 +23,3 @@ During my undergraduate studies, I became proficient in Python, which has become
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,python,aws,php,mysql,postgres,linux,arduino,js,html,css)
 
 </span>
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImTeli&theme=transparent&bg_color=101010&border_color=FFF&show_icons=true&icon_color=00FFFF&title_color=00FFFF&text_color=FFF)
-
-## Projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ImTeli&repo=telibot&bg_color=101010&border_color=FFF&show_icons=true&icon_color=00FFFF&title_color=00FFFF&text_color=FFF)](https://github.com/ImTeli/telibot)
